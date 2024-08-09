@@ -8,7 +8,7 @@ import json
 
 headers = {
     'x-rapidapi-host': "v3.football.api-sports.io",
-    'x-rapidapi-key': "5acc17a71fb2b36eaf7c3c3729425627"
+    'x-rapidapi-key': "api_key"
 }
 
 team = Teams(headers)
